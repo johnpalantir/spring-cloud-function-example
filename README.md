@@ -7,5 +7,5 @@
 ### Command used:
 
 ```
-curl -X POST -H 'Content-Type: text/plain' <API_GATEWAY_URL> -d 'TechPrimers' -i
+curl -X POST -H 'Content-Type: text/plain' <API_GATEWAY_URL> -d 'Hello Palantir' -i
 ```
